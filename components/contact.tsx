@@ -39,7 +39,7 @@ export default function Contact() {
 
   const contacts = [
     { icon: Mail, label: "Email", value: "harshverma8305@gmail.com", href: "mailto:harshverma8305@gmail.com" },
-    { icon: Phone, label: "Phone", value: "+91 8305259556", href: "tel:+918305259556" },
+    // { icon: Phone, label: "Phone", value: "+91 8305259556", href: "tel:+918305259556" },
     {
       icon: Linkedin,
       label: "LinkedIn",
