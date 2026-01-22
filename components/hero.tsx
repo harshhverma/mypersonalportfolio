@@ -30,17 +30,17 @@ export default function Hero() {
           </h1>
 
           <p className="text-2xl sm:text-3xl font-semibold mb-4 text-foreground/80">
-            Salesforce Developer | DRDO Intern | SIH 2024 Winner
+            Software Developer | DRDO Intern | SIH 2024 Winner
           </p>
 
           <p className="text-lg text-foreground/60 mb-12 max-w-2xl mx-auto leading-relaxed">
-            Final-year CSE student skilled in Salesforce development, full-stack engineering, and AI-driven security
+            Final-year CSE student skilled in Software Development, Salesforce development, and AI-driven security
             systems. Building scalable solutions that make an impact.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
           <a
-            href="https://drive.google.com/file/d/1ERxrYXaOJOlfpdiR7O2k8zxwDSV4u67m/view?usp=sharing"
+            href="https://drive.google.com/file/d/18yjiOVvhvroVtp4pCP0mfzt6rgQwNf0T/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             className="group px-8 py-4 bg-primary text-primary-foreground rounded-lg font-semibold hover:shadow-lg hover:shadow-primary/50 transition-all duration-300 flex items-center justify-center gap-2"
